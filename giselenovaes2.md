@@ -1,3 +1,3 @@
 # Gisele Novaes
 
-## Teste enviando colaboração direto pélo GitHub, editando arquivo.
+## Teste enviando colaboração direto pelo GitHub, editando arquivo.
